@@ -1,0 +1,1903 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.A1{
+    width: 100%;
+    height: 40px;
+    background-color: #fdc001;
+}
+.photo1{
+    width: 100%;
+    height: 100%;
+}
+.collapse navbar-collapse{
+    position: sticky;
+}
+.nav-link{
+    color: black;
+    }
+    .navbar-nav{
+    margin-left:600px;
+    position: sticky;
+    
+    }
+    .nav-item{
+    margin-left:30px;
+    }
+.photo2{
+    width: 300px;
+    height: 260px;
+    margin-left: 570px;
+    margin-top:-450px;
+    
+}
+.photo3{
+    width: 300px;
+    height: 260px;
+    margin-left: 930px;
+    margin-top:-450px;
+    
+}
+.t1{
+    margin-left: 70px;
+    margin-top: -550px;
+}
+.t1 h2{
+    font-size: 80px;
+    font-family: Arial Black;
+    
+}
+.t1 p{
+    font-family: arial;
+    letter-spacing: 1px;
+}
+.btn1{
+    width: 140px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn2{
+    width: 140px;
+    height: 40px;
+    margin-left: 10px;
+    background-color: black;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+.btn1:hover{
+    background-color: #fdc001;
+}
+.btn2:hover{
+    background-color: #fdc001;
+}
+.play1{
+    margin-left: 680px;
+    margin-top: -190px;
+    width: 60px;
+    position: absolute;
+}
+.play2{
+    margin-left: 1030px;
+    margin-top: -180px;
+    width: 60px;
+    position: absolute;
+}
+.A3{
+    background-color: #fdc001;
+    width: 100%;
+    height: 800px;
+}
+.A3 h2{
+    font-family: Arial Black;
+    margin-top: 190px;
+    position: absolute;
+    margin-left: 440px;
+    font-size: 40px;
+}
+.A3 p{
+    font-family: arial;
+    letter-spacing: 1px;
+    margin-left: 360px;
+    position: absolute;
+    margin-top: 260px;
+}
+form{
+    margin-top: 330px;
+    position: absolute;
+    margin-left: 120px;
+}
+
+.f1{
+    width: 500px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+}
+.f2{
+    width: 500px;
+    height: 50px;
+    margin-left: 50px;
+    border: none;
+    border-radius: 10px;
+}
+.f3{
+    width: 1050px;
+    height: 100px;
+    border: none;
+    border-radius: 20px;
+}
+.btn3{
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-left: 450px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.btn3:hover{
+    background-color: #fdc001;
+    box-shadow: 0px 2px 10px 10px;
+}
+.A4 h2{
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial Black;
+    font-size: 40px;
+}
+.msg1{
+    letter-spacing: 1px;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.msg1 h3{
+    font-family: Arial Black;
+}
+.msg1 p{
+    margin-top: 10px;
+    font-family: arial;
+}
+.btn4{
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    margin-left: 35px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.btn4:hover{
+    background-color: #fdc001;
+}
+.msg2{
+    letter-spacing: 1px;
+    margin-top: -450px;
+    margin-left: 480px;
+}
+.msg2 h3{
+    font-family: Arial Black;
+}
+.msg2 p{
+    margin-top: 10px;
+    font-family: arial;
+}
+.msg3{
+    letter-spacing: 1px;
+    margin-top: -450px;
+    margin-left: 900px;
+}
+.msg3 h3{
+    font-family: Arial Black;
+}
+.msg3 p{
+    margin-top: 10px;
+    font-family: arial;
+}
+.A5{
+    background-color: black;
+    width: 100%;
+    height: 800px;
+    margin-top: 100px;
+}
+.A5 h2{
+    color: white;
+    text-align: center;
+    font-family: Arial black;
+    font-size: 40px;
+    padding-top: 40px;
+}
+.A5 p{
+    text-align: center;
+    font-family: arial;
+    color: white;
+    padding-top: 20px;
+}
+.card1{
+    width: 400px;
+    height: 450px;
+    background-color: white;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.price1{
+    background-color: #fdc001;
+    width: 350px;
+    height: 400px;
+    margin-left: 175px;
+    margin-top: -480px;
+}
+.price1 h3{
+   text-align: center;
+   padding-top: 20px;
+   font-size: 25px;
+   font-family: arial;
+}
+.price1 h4{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.price1 p{
+    text-align: center;
+    font-family: arial;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.btn5{
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    background-color: #191624;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 420px;
+    margin-left: 90px;
+    
+}
+    .btn5:hover:hover{
+        background-color: #fdc001;
+}
+    
+
+.card2{
+    width: 400px;
+    height: 450px;
+    background-color: white;
+    margin-left: 710px;
+    margin-top: -365px;
+}
+.price2{
+    background-color: #fdc001;
+    width: 350px;
+    height: 400px;
+    margin-left: 735px;
+    margin-top: -480px;
+}
+.price2 h3{
+   text-align: center;
+   padding-top: 20px;
+   font-size: 25px;
+   font-family: arial;
+}
+.price2 h4{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.price2 p{
+    text-align: center;
+    font-family: arial;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.A6 h2{
+    text-align: center;
+    font-family: Arial black;
+    font-size: 40px;
+    padding-top: 50px;
+}
+.A6 p{
+    text-align: center;
+    font-family: arial;
+    letter-spacing: 1px;
+    padding-top: 10px;
+}
+.blog1{
+    background-color: azure;
+    width: 350px;
+    height: 450px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.btn6{
+    width: 80px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    margin-left: 135px;
+    margin-top: -40px;
+}
+.blog1 h3{
+    font-family: Arial black;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.blog1 p{
+     letter-spacing: 1px;
+     padding-top: 20px;
+     text-align: left;
+     margin-left: 20px;
+}
+.btn7{
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.btn7:hover{
+    background-color: #fdc001;
+}
+.blog2{
+    background-color: azure;
+    width: 350px;
+    height: 450px;
+    margin-left: 490px;
+    margin-top: -450px;
+}
+.btn8{
+    width: 80px;
+    height: 40px;
+    background-color:#fdc001;
+    color: white;
+    border: none;
+    margin-left: 135px;
+    margin-top: -40px;
+}
+.blog2 h3{
+    font-family: Arial black;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.blog2 p{
+     letter-spacing: 1px;
+     padding-top: 20px;
+     text-align: left;
+     margin-left: 20px;
+}
+.blog3{
+    background-color: azure;
+    width: 350px;
+    height: 450px;
+    margin-left: 900px;
+    margin-top: -450px;
+}
+.blog3 h3{
+    font-family: Arial black;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.blog3 p{
+     letter-spacing: 1px;
+     padding-top: 20px;
+     text-align: left;
+     margin-left: 20px;
+}
+.A7{
+    width: 100%;
+    height: 600px;
+    background-color: #fdc001;
+    margin-top: 100px;
+}
+.d{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    margin-top: 80px;
+    position: absolute;
+}
+.photo4{
+    position: absolute;
+    width: 500px;
+    height: 360px;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+.d1{
+    margin-left: 630px;
+    margin-top: 160px;
+    position: absolute;
+}
+.d1 h2{
+    font-family: Arial black;
+    font-size: 40px;
+}
+.d1 p{
+    font-family: arial;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+.btn9{
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 0 px;
+    margin-top: 20px;
+}
+.btn9:hover{
+    background-color: #fdc001;
+    box-shadow: 0px 2px 10px 10px;
+}
+.A8 h2{
+    text-align: center;
+    font-family: Arial black;
+    font-size: 40px;
+    padding-top: 50px;
+}
+.slide{
+    width: 70%;
+    height: 250px;
+    border: 1px solid grey;
+    margin-top: 40px;
+    margin-left: 380px;
+    border-radius: 20px;
+}
+.slide p{
+    padding: 65px;
+    font-family: arial;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+.photo5{
+    margin-left: -250px;
+    margin-top: -250px;
+}
+.A8 h3{
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 135px;
+    
+}
+.A8 h4{
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 135px;
+}
+.A9{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    margin-top: 100px;
+    
+}
+.ed1{
+    margin-left: 50px;
+    margin-top: 100px;
+    position: absolute;
+}
+.point1{
+    width: 20px;
+    height: 20px;
+    background-color: #fdc001;
+    border-radius: 100px;
+
+}
+.ed1 h3{
+    color: white;
+    font-family: Arial black;
+    margin-top: -25px;
+    margin-left: 30px;
+}
+.ed1 p{
+    color: white;
+    margin-top: 20px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    font-family: arial;
+}
+.ed2{
+    margin-left: 420px;
+    margin-top: 100px;
+    position: absolute;
+}
+.ed2 h3{
+    color: white;
+    font-family: Arial black;
+    margin-top: -25px;
+    margin-left: 30px;
+}
+.ed2 p{
+    color: white;
+    margin-top: 30px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    font-family: arial;
+}
+.ed3{
+    margin-left: 790px;
+    margin-top: 100px;
+    position: absolute;
+}
+.ed3 h3{
+    color: white;
+    font-family: Arial black;
+    margin-top: -25px;
+    margin-left: 30px;
+}
+.menu{
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.ed4{
+    margin-left: 1030px;
+    margin-top: 100px;
+    position: absolute;
+}
+.ed4 h3{
+    color: white;
+    font-family: Arial black;
+    margin-top: -25px;
+    margin-left: 30px;
+}
+.in1{
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    border: 1px solid #fdc001;
+    border-radius: 5px;
+    margin-left: -10px;
+}
+.btn10{
+    width: 200px;
+    height: 40px;
+    background-color: #fdc001;
+    color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-left: -10px;
+
+}
+.btn10:hover{
+    background-color: white;
+    color: black;
+}
+.ed4 i{
+    margin-left: -190px;
+   padding-top: 80px;
+   position: absolute;
+    
+}
+.ed4 p{
+    color: white;
+    margin-top: 29px;
+    margin-left: 30px;
+}
+.mail1{
+    color: white;
+    padding-top:-10px;
+    margin-left: 70px;
+   position: absolute;
+}
+.news{
+    margin-top: 10px;
+    margin-left: -10px;
+}
+
+/************************************ mob view********************************************/
+ 
+@media only screen and (max-width: 1024px) {
+    .nav-link{
+        color: black;
+        }
+        .navbar-nav{
+        margin-left:200px;
+        
+        }
+        .nav-item{
+        margin-left:50px;
+        }
+    .t1{
+        
+        margin-top: -700px;
+    }
+    .t1 h2{
+        font-size: 65px;
+    }
+    .t1 p{
+        font-size: 20px;
+    }
+    .btn1{
+        width: 150px;
+        height: 50px;
+        
+    }
+    .btn2{
+        width: 150px;
+        height: 50px;
+        margin-left: 20px;
+    }
+    .photo2{
+        margin-left: 120px;
+        margin-top: 30px;
+        width: 250px;
+        height: 250px;
+       
+    }
+    .photo3{
+        margin-left: 160px;
+        margin-top: 30px;
+        width: 250px;
+        height: 250px;
+    }
+    .play1{
+        margin-top:190px;
+        margin-left: 210px;
+        width: 70px;
+        height: 70px;
+    }
+    .play2{
+        margin-top:190px;
+        margin-left: 620px;
+        width: 70px;
+        height: 70px;
+    }
+    .A3{
+        margin-top: 500px;
+        height: 600px;
+    }
+    .A3 h2{
+         text-align:center;
+         font-size: 30px;
+         margin-top: 30px;
+         margin-left: 380px;
+    }
+    .A3 p{
+        font-size: 20px;
+        margin-left: 150px;
+        text-align: center;
+        margin-top: 80px;
+    }
+    form{
+        margin-left: 200px;
+        margin-top: 200px;
+    }
+    .f1{
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.f2{
+    width: 300px;
+    height: 40px;
+    margin-left: 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.f3{
+    width: 630px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    font-size: 15px;
+}
+.btn3{
+    margin-left: 200px;
+    width: 200px;
+    height: 40px;
+    margin-top: 5px;
+}
+.A4 h2{
+    font-size: 30px;
+}
+.msg1{
+    margin-left:140px;
+    margin-top:60px;
+   
+}
+.msg2{
+    margin-top: -450px;
+    margin-left: 550px;
+}
+.msg3{
+    margin-top: 30px;
+    margin-left: 140px;
+}
+.A5{
+    height: 800px;
+}
+.card1{
+    margin-left: 100px;
+    width: 320px;
+}
+.price1{
+    margin-left: 125px;
+    width: 270px;
+}
+.btn5{
+    margin-left:64px;
+}
+.card2{
+    margin-top: -370px;
+    margin-left: 550px;
+    width: 320px;
+}
+.price2{
+    margin-left: 575px;
+    width: 270px;
+}
+.blog1{
+    margin-left: 80px;
+}
+.blog2{
+    margin-top: -450px;
+    margin-left: 600px;
+}
+.blog3{
+    margin-top: 70px;
+    margin-left: 80px;
+}
+.d1{
+    margin-left: 550px;
+}
+
+.photo5{
+   margin-left: -245px;
+   margin-top: -270px;
+}
+.slide{
+    width: 660px;
+    height: 200px;
+    font-size: 12px;
+    margin-left: 300px;
+    padding: 1px;
+}
+.slide p{
+    margin-top: -25px;
+}
+.A8 h3{
+    margin-left: 61px;
+    margin-top: -50px;
+}
+.A8 h4{
+    margin-left: 66px;
+    margin-top: -30px;
+}
+.ed1{
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.ed2{
+   font-size: 14px;
+   margin-left: 300px;
+}
+.ed3{
+    font-size: 14px;
+    margin-left: 560px;
+  
+}
+.ed4{
+    font-size: 14px;
+    margin-left: 730px;
+}
+} 
+@media only screen and (max-width: 745px) {
+   
+    .nav-link{
+        color: black;
+        }
+        .navbar-nav{
+        margin-left:70px;
+        font-size: 12px;
+        
+        }
+        .nav-item{
+        margin-left:50px;
+        }
+    .t1{
+        
+        margin-top: -800px;
+    }
+    .t1 h2{
+        font-size: 65px;
+    }
+    .t1 p{
+        font-size: 20px;
+    }
+    .btn1{
+        width: 150px;
+        height: 50px;
+        
+    }
+    .btn2{
+        width: 150px;
+        height: 50px;
+        margin-left: 20px;
+    }
+    .photo2{
+        margin-left: 100px;
+        margin-top: 120px;
+        width: 250px;
+        height: 250px;
+       
+    }
+    .photo3{
+        margin-left: 420px;
+        margin-top: -250px;
+        width: 250px;
+        height: 250px;
+    }
+    .play1{
+        margin-top:250px;
+        margin-left: 200px;
+        width: 70px;
+        height: 70px;
+    }
+    .play2{
+        margin-top:250px;
+        margin-left: 510px;
+        width: 70px;
+        height: 70px;
+    }
+    .A3{
+        margin-top: 500px;
+        height: 700px;
+    }
+    .A3 h2{
+         text-align:center;
+         font-size: 30px;
+         margin-top: 30px;
+         margin-left: 220px;
+    }
+    .A3 p{
+        font-size: 20px;
+       margin-left: 40px;
+        text-align: center;
+        margin-top: 80px;
+    }
+    form{
+        margin-left: 200px;
+        margin-top: 150px;
+    }
+    .f1{
+    width: 500px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-left: -70px;
+}
+.f2{
+    width: 500px;
+    height: 40px;
+    margin-left: 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-left: -70px;
+    margin-top: 20px;
+}
+.f3{
+    width: 500px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    font-size: 15px;
+    margin-left: -70px;
+    margin-top: 10px;
+}
+.btn3{
+    margin-left: 80px;
+    width: 200px;
+    height: 40px;
+    margin-top: -5px;
+}
+.A4 h2{
+    font-size: 30px;
+}
+.msg1{
+    margin-left:30px;
+    margin-top:40px;
+   
+}
+.msg2{
+    margin-top: -450px;
+    margin-left: 380px;
+}
+.msg3{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.A5{
+    height: 700px;
+}
+.card1{
+    margin-left: 80px;
+    width: 250px;
+    height: 350px;
+   
+}
+.price1{
+    margin-left: 105px;
+    width: 200px;
+    height: 300px;
+    margin-top: -370px;
+}
+.btn5{
+    margin-left: 60px;
+    margin-top: 320px;
+   width: 120px;
+   height: 40px;
+}
+.card2{
+    margin-top: -280px;
+    margin-left: 400px;
+    width: 250px;
+    height: 350px;
+}
+.price2{
+    margin-left: 430px;
+    margin-top: -370px;
+    width: 200px;
+    height: 300px;
+}
+.blog1{
+    margin-left: 10px;
+}
+.blog2{
+    margin-top: -450px;
+    margin-left: 375px;
+}
+.blog3{
+    margin-top: 70px;
+    margin-left: 10px;
+}
+.d{
+    width: 200px;
+    height: 300px;
+    margin-top: 150px;
+}
+.photo4{
+    width: 250px;
+    height: 200px;
+    margin-top: 200px;
+}
+.d1{
+    margin-left: 300px;
+}
+
+.photo5{
+   margin-left: 245px;
+   margin-top: -520px;
+}
+.slide{
+    width: 660px;
+    height: 200px;
+    font-size: 14px;
+    margin-left: 50px;
+    padding: 1px;
+    margin-top: 260px;
+}
+.slide p{
+    margin-top: -30px;
+}
+.A8 h3{
+    margin-left: 320px;
+    margin-top: -290px;
+    font-size: 15px;
+}
+.A8 h4{
+    margin-left: 320px;
+    margin-top: -270px;
+    font-size: 14px;
+}
+.A9{
+    height: 500px;
+}
+.ed1{
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.ed2{
+   font-size: 14px;
+   margin-left: 300px;
+}
+.ed3{
+    font-size: 14px;
+    margin-left: 560px;
+  
+}
+.ed4{
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 300px;
+}
+} 
+@media only screen and (max-width: 675px) {
+    .nav-link{
+        color: black;
+        }
+        .navbar-nav{
+        margin-left:40px;
+        font-size: 12px;
+        
+        }
+        .nav-item{
+        margin-left:50px;
+        }
+    .t1{
+        
+        margin-top: -650px;
+    }
+    .t1 h2{
+        font-size: 50px;
+    }
+    .t1 p{
+        font-size: 16px;
+    }
+    .btn1{
+        width: 100px;
+        height: 40px;
+        font-size: 12px;
+        
+    }
+    .btn2{
+        width: 100px;
+        height: 40px;
+        margin-left: 20px;
+        font-size: 12px;
+    }
+    .photo2{
+        margin-left: 50px;
+        margin-top: -70px;
+       
+    }
+    .photo3{
+       position: relative;
+       margin-top: -250px;
+       margin-left: 380px;
+    }
+    .play1{
+        margin-top:160px;
+        margin-left: 140px;
+        width: 70px;
+        height: 70px;
+    }
+    .play2{
+        margin-top:160px;
+        margin-left: 470px;
+        width: 70px;
+        height: 70px;
+    }
+    .A3{
+        margin-top: 500px;
+        height: 700px;
+    }
+    .A3 h2{
+         text-align:center;
+         font-size: 30px;
+         margin-top: 30px;
+         margin-left: 190px;
+    }
+    .A3 p{
+        font-size: 20px;
+       margin-left: 40px;
+        text-align: center;
+        margin-top: 80px;
+    }
+    form{
+        margin-left: 160px;
+        margin-top: 150px;
+    }
+    .f1{
+    width: 500px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-left: -70px;
+}
+.f2{
+    width: 500px;
+    height: 40px;
+    margin-left: 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-left: -70px;
+    margin-top: 20px;
+}
+.f3{
+    width: 500px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    font-size: 15px;
+    margin-left: -70px;
+    margin-top: 10px;
+}
+.btn3{
+    margin-left: 80px;
+    width: 200px;
+    height: 40px;
+    margin-top: -5px;
+}
+.A4 h2{
+    font-size: 30px;
+}
+.msg1{
+    margin-left:20px;
+    margin-top:40px;
+   
+}
+.msg2{
+    margin-top: -448px;
+    margin-left: 350px;
+}
+.msg3{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.A5{
+    height: 700px;
+}
+.card1{
+    margin-left: 50px;
+    width: 250px;
+    height: 350px;
+   
+}
+.price1{
+    margin-left: 75px;
+    width: 200px;
+    height: 300px;
+    margin-top: -370px;
+}
+.btn5{
+    margin-left: 60px;
+    margin-top: 320px;
+   width: 120px;
+   height: 40px;
+}
+.card2{
+    margin-top: -280px;
+    margin-left: 360px;
+    width: 250px;
+    height: 350px;
+}
+.price2{
+    margin-left: 385px;
+    margin-top: -370px;
+    width: 200px;
+    height: 300px;
+}
+.blog1{
+    margin-left: 160px;
+   
+}
+.blog2{
+    margin-top: 100px;
+    margin-left: 160px;
+}
+.blog3{
+    margin-top: 100px;
+    margin-left: 160px;
+}
+.d{
+    width: 200px;
+    height: 300px;
+    margin-top: 150px;
+}
+.photo4{
+    width: 250px;
+    height: 200px;
+    margin-top: 200px;
+}
+.d1{
+    margin-left: 300px;
+}
+
+.photo5{
+   margin-left: 245px;
+   margin-top: -520px;
+}
+.slide{
+    width: 660px;
+    height: 200px;
+    font-size: 14px;
+    margin-left: 10px;
+    padding: 1px;
+    margin-top: 260px;
+}
+.slide p{
+    margin-top: -35px;
+}
+.A8 h3{
+    margin-left: 275px;
+    margin-top: -285px;
+}
+.A8 h4{
+    margin-left: 276px;
+    margin-top: -270px;
+    font-size: 14px;
+}
+.A9{
+    height: 500px;
+}
+.ed1{
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.ed2{
+   font-size: 14px;
+   margin-left: 300px;
+}
+.ed3{
+    font-size: 14px;
+    margin-left: 560px;
+  
+}
+.ed4{
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 300px;
+}
+} 
+@media only screen and (max-width: 575px){
+    
+    .t1{
+        
+        margin-top: -520px;
+    }
+    .t1 h2{
+        font-size: 50px;
+    }
+    .t1 p{
+        font-size: 15px;
+    }
+    .btn1{
+        width: 100px;
+        height: 30px;
+    }
+    .btn2{
+        width: 100px;
+        height: 30px;
+    }
+    .photo2{
+        margin-left: 70px;
+        margin-top: -70px;
+        width: 150px;
+        height: 150px;
+       
+    }
+    .photo3{
+        margin-left: 100px;
+        margin-top: -70px;
+        width: 150px;
+        height: 150px;
+    }
+    .play1{
+        margin-top:120px;
+        margin-left: 110px;
+        width: 50px;
+        height: 50px;
+    }
+    .play2{
+        margin-top:120px;
+        margin-left: 370px;
+        width: 50px;
+        height: 50px;
+    }
+    .A3{
+        margin-top: 300px;
+        height: 620px;
+    }
+    .A3 h2{
+         text-align: center;
+         font-size: 30px;
+        margin-left: 125px;
+    
+    }
+    .A3 p{
+        font-size: 15px;
+        margin-left: 20px;
+    }
+    form{
+        margin-left: 190px;
+    }
+    .f1{
+    width: 350px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 10px;
+}
+.f2{
+    width: 350px;
+    height: 30px;
+    margin-left: -70px;
+    border: none;
+    border-radius: 10px;
+    font-size: 10px;
+}
+.f3{
+    width: 350px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    font-size: 10px;
+}
+.btn3{
+    margin-left: 50px;
+    width: 100px;
+    height: 30px;
+    margin-top: 5px;
+    font-size: 12px;
+}
+.A4 h2{
+    font-size: 30px;
+}
+.msg1{
+    margin-left:140px;
+    margin-top:40px;
+}
+.msg2{
+    margin-top: 30px;
+    margin-left: 140px;
+}
+.msg3{
+    margin-top: 30px;
+    margin-left: 140px;
+}
+.A5{
+    height: 1200px;
+}
+.card1{
+    margin-left: 140px;
+    width: 320px;
+}
+.price1{
+    margin-left: 165px;
+    width: 270px;
+}
+.btn5{
+    margin-left:100px;
+}
+.card2{
+    margin-top: 210px;
+    margin-left: 140px;
+    width: 320px;
+}
+.price2{
+    margin-left: 165px;
+    width: 270px;
+}
+.blog1{
+    margin-left: 115px;
+}
+.blog2{
+    margin-top: 70px;
+    margin-left: 115px;
+}
+.blog3{
+    margin-top: 70px;
+    margin-left: 115px;
+}
+.d{
+    width: 300px;
+    height: 150px;
+    margin-left: 140px;
+    margin-top: -10px;
+}
+.photo4{
+    width: 250px;
+    height: 200px;
+    margin-left: 165px;
+    margin-top: 10px;
+
+}
+.d1{
+    margin-top: 250px;
+    margin-left: 70px;
+    font-size: 13px;
+}
+.btn9{
+    margin-left: 100px;
+}
+.d1 h2{
+    font-size: 30px;
+    text-align: center;
+}
+.photo5{
+    margin-top: -780px;
+    margin-left: 50px;
+}
+.slide{
+    margin-top: 300px;
+    margin-left: 150px;
+    width: 300px;
+    height: 420px;
+    font-size: 10px;
+    padding: 5px;
+}
+.slide p{
+    margin-top: -50px;
+}
+.A8 h3{
+    margin-top: -540px;
+    margin-left: 230px;
+}
+.A8 h4{
+    margin-top: -520px;
+    margin-left: 230px;
+}
+.ed1{
+    margin-left: 10px;
+}
+.A9{
+    height: 900px;
+}
+.ed2{
+    margin-top: 300px;
+    margin-left: 20px;
+}
+.ed3{
+    margin-top: 480px;
+    margin-left: 20px;
+}
+.ed4{
+    margin-top: 680px;
+    margin-left: 20px;
+}
+}  
+@media only screen and (max-width: 450px){
+    
+    .t1{
+        
+        margin-top: -470px;
+        margin-left: 30px;
+    }
+    .t1 h2{
+        font-size: 40px;
+    }
+    .t1 p{
+        font-size: 12px;
+    }
+    .btn1{
+        width: 100px;
+        height: 30px;
+    }
+    .btn2{
+        width: 100px;
+        height: 30px;
+    }
+    .photo2{
+        margin-left: 60px;
+        margin-top: -120px;
+        width: 150px;
+        height: 150px;
+       
+    }
+    .photo3{
+        margin-left: 20px;
+        margin-top: -120px;
+        width: 150px;
+        height: 150px;
+    }
+    .play1{
+        margin-top:120px;
+        margin-left: 100px;
+        width: 50px;
+        height: 50px;
+    }
+    .play2{
+        margin-top:120px;
+        margin-left: 310px;
+        width: 50px;
+        height: 50px;
+    }
+    .A3{
+        margin-top: 300px;
+        height: 600px;
+    }
+    .A3 h2{
+         text-align: center;
+         font-size: 25px;
+        margin-left: 100px;
+    
+    }
+    .A3 p{
+        font-size: 15px;
+        margin-left: 10px;
+    }
+    form{
+        margin-left: 130px;
+    }
+    .f1{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 10px;
+    margin-left: -60px;
+}
+.f2{
+    width: 300px;
+    height: 30px;
+    margin-left: -60px;
+    border: none;
+    border-radius: 10px;
+    font-size: 10px;
+}
+.f3{
+    width: 300px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    font-size: 10px;
+    margin-left: -60px;
+}
+.btn3{
+    margin-left: 40px;
+    width: 100px;
+    height: 30px;
+    margin-top: -5px;
+    font-size: 11px;
+}
+.A4 h2{
+    font-size: 30px;
+}
+.msg1{
+    margin-left:70px;
+    margin-top:40px;
+}
+.msg2{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.msg3{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.A5{
+    height: 1200px;
+}
+.card1{
+    margin-left: 60px;
+    width: 320px;
+}
+.price1{
+    margin-left: 85px;
+    width: 270px;
+}
+.btn5{
+    margin-left:94px;
+}
+.card2{
+    margin-top: 210px;
+    margin-left: 60px;
+    width: 320px;
+}
+.price2{
+    margin-left: 85px;
+    width: 270px;
+}
+.blog1{
+    margin-left: 50px;
+}
+.blog2{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.blog3{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.d{
+    width: 250px;
+    height: 150px;
+    margin-left: 100px;
+    margin-top: -10px;
+}
+.photo4{
+    width: 200px;
+    height: 200px;
+    margin-left: 127px;
+    margin-top: 10px;
+
+}
+.d1{
+    margin-top: 250px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.d1 h2{
+    font-size: 30px;
+    text-align: center;
+}
+.photo5{
+    margin-top: -780px;
+    margin-left: 50px;
+}
+.slide{
+    margin-top: 300px;
+    margin-left: 80px;
+    width: 300px;
+    height: 420px;
+    font-size: 10px;
+    padding: 5px;
+}
+.A8 h3{
+    margin-top: -540px;
+    margin-left: 150px;
+}
+.A8 h4{
+    margin-top: -520px;
+    margin-left: 150px;
+}
+.ed1{
+    margin-left: 10px;
+}
+.A9{
+    height: 800px;
+}
+.ed2{
+    margin-top: 300px;
+    margin-left: 20px;
+}
+.ed3{
+    margin-top: 480px;
+    margin-left: 20px;
+}
+.ed4{
+    margin-top: 660px;
+    margin-left: 20px;
+}
+}  
+@media only screen and (max-width: 375px){
+    
+    .t1{
+        
+        margin-top: -820px;
+        margin-left: 30px;
+    
+    }
+    .t1 h2{
+        font-size: 40px;
+    }
+    .t1 p{
+        font-size: 12px;
+    }
+    .btn1{
+        width: 100px;
+        height: 30px;
+        font-size: 10px;
+    }
+    .btn2{
+        width: 100px;
+        height: 30px;
+        font-size: 10px;
+    }
+    .photo2{
+        margin-left: 80px;
+        margin-top: -80px;
+        width: 200px;
+        height: 200px;
+       
+    }
+    .photo3{
+        margin-left: 80px;
+        margin-top: 60px;
+        width: 200px;
+        height: 200px;
+    }
+    .play1{
+        margin-top:180px;
+        margin-left: 170px;
+        width: 50px;
+        height: 50px;
+    }
+    .play2{
+        margin-top:420px;
+        margin-left: 180px;
+        width: 50px;
+        height: 50px;
+    }
+    .A3{
+        margin-top: 600px;
+        height: 600px;
+    }
+    .A3 h2{
+         text-align: center;
+         font-size: 25px;
+        margin-left: 70px;
+    
+    }
+    .A3 p{
+        font-size: 12px;
+        margin-left: 10px;
+    }
+    form{
+        margin-left: 130px;
+    }
+    .f1{
+    width: 250px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 10px;
+    margin-left: -70px;
+}
+.f2{
+    width: 250px;
+    height: 30px;
+    margin-left: -70px;
+    border: none;
+    border-radius: 10px;
+    font-size: 10px;
+}
+.f3{
+    width: 250px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    font-size: 10px;
+    margin-left: -70px;
+}
+.btn3{
+    margin-left: 12px;
+    width: 100px;
+    height: 30px;
+    margin-top: 5px;
+    font-size: 10px;
+}
+.A4 h2{
+    font-size: 30px;
+}
+.msg1{
+    margin-left:30px;
+    margin-top:40px;
+}
+.msg2{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.msg3{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.A5{
+    height: 1200px;
+}
+.card1{
+    margin-left: 30px;
+    width: 320px;
+}
+.price1{
+    margin-left: 55px;
+    width: 270px;
+}
+.btn5{
+    margin-left:94px;
+}
+.card2{
+    margin-top: 210px;
+    margin-left: 30px;
+    width: 320px;
+}
+.price2{
+    margin-left: 55px;
+    width: 270px;
+}
+.blog1{
+    margin-left: 10px;
+}
+.blog2{
+    margin-top: 70px;
+    margin-left: 10px;
+}
+.blog3{
+    margin-top: 70px;
+    margin-left: 10px;
+}
+.d{
+    width: 250px;
+    height: 150px;
+    margin-left: 60px;
+    margin-top: -10px;
+}
+.photo4{
+    width: 200px;
+    height: 200px;
+    margin-left: 86px;
+    margin-top: 10px;
+
+}
+.d1{
+    margin-top: 250px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.btn9{
+    width: 140px;
+    height: 30px;
+    margin-left: 100px;
+}
+.d1 h2{
+    font-size: 30px;
+    text-align: center;
+}
+.photo5{
+    margin-top: -780px;
+    margin-left: 50px;
+}
+.slide{
+    margin-top: 300px;
+    margin-left: 35px;
+    width: 300px;
+    height: 420px;
+    font-size: 10px;
+    padding: 5px;
+}
+.A8 h3{
+    margin-top: -540px;
+    margin-left: 110px;
+}
+.A8 h4{
+    margin-top: -520px;
+    margin-left: 110px;
+}
+.ed1{
+    margin-left: 10px;
+}
+.A9{
+    height: 850px;
+}
+.ed2{
+    margin-top: 300px;
+    margin-left: 20px;
+}
+.ed3{
+    margin-top: 480px;
+    margin-left: 20px;
+}
+.ed4{
+    margin-top: 660px;
+    margin-left: 20px;
+}
+}  
