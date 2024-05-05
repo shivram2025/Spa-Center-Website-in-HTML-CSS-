@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> database</title>
+            <body>
+                <form method="post">
+                    name:<input type="text"name="nm"><br><br>
+                    email:<input type="text"name="email"><br><br>
+                    p.n:<input type="text"name="p.n"><br><br>
+                    smg:<input type="text"name="smg"><br><br>
+                    time:<input type="text"name="time"><br><br>
+                    date:<input type="text"name="date"><br><br>
+                    cuntery:<input type="text"name="cuntery"><br>
+
+            
+                $con=mysqli_connect('localhost','root',',record');
+                if(insset($_post[sb]))
+                { 
+                    $name=$_post['nm'];
+                }
+            </form>
+            </body>
+    </head>
+</html>
